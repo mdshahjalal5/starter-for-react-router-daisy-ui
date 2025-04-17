@@ -1,5 +1,11 @@
+import App from "../App";
+
 const Root = () => {
-  return <div>root</div>;
+  return (
+    <>
+      <App></App>
+    </>
+  );
 };
 
 export default Root;
